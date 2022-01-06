@@ -45,6 +45,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
+    "@netlify/plugin-nextjs": "^4.1.1",
     "@pankod/pankod-cli": "^1.0.0",
     "@storybook/addon-actions": "^5.3.18",
     "@storybook/addon-knobs": "^5.3.18",
